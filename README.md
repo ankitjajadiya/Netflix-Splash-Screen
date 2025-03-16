@@ -1,6 +1,9 @@
 # netflix_splash_screen
 
-A new Flutter project.
+
+
+https://github.com/user-attachments/assets/b396c766-6bea-4f92-86ee-2294ab5d4d5a
+
 
 ## Getting Started
 
